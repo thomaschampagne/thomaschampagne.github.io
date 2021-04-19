@@ -1,0 +1,30 @@
+$color: #8d8d8d;
+$background-color: #1d1d1d;
+
+.background {
+  background-color: $background-color;
+  color: $color;
+}
+
+.me {
+  font-size: 2.5rem;
+}
+
+.about {
+  font-size: 1.5rem;
+}
+
+.city {
+  font-size: 1rem;
+}
+
+.links {
+  font-size: 1.5rem;
+}
+
+.icon {
+  color: $color;
+  font-size: 2rem;
+  padding-left: 20px;
+  padding-right: 20px;
+}
